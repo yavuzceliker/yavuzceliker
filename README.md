@@ -16,7 +16,7 @@
 
 - 💬 Ask me about: **ASP.NET MVC**
 
-- 📫 How to reach me: **yavuz@yavuzceliker.com.tr**
+- 📫 How to reach me: **contact@yavuzceliker.com.tr**
 
 - 📄 Know about my experiences: [yavuzceliker.com.tr/en/about](yavuzceliker.com.tr/en/about)
 
