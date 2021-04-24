@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on: **Nutritionist App 🥦🍎🍇**
 
-- 🌱 I’m currently learning: **Flutter**, **ASP.NET CORE MVC**, **RabbitMQ**
+- 🌱 I’m currently learning: **Flutter**, **ASP.NET CORE MVC**, **React**
 
 - 👨‍💻 All of my projects are available at: [yavuzceliker.github.io](yavuzceliker.github.io)
 
