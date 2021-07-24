@@ -6,15 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/yavuzcelikerctr" target="blank"><img src="https://img.shields.io/twitter/follow/yavuzcelikerctr?logo=twitter&style=for-the-badge" alt="yavuzcelikerctr" /></a> </p>
 
-- 🔭 I’m currently working on: **Nutritionist App 🥦🍎🍇**
+- 🔭 I’m currently working on: **Appointment App**
 
 - 🌱 I’m currently learning: **Flutter**, **ASP.NET CORE MVC**, **React**
 
-- 👨‍💻 All of my projects are available at: [yavuzceliker.github.io](yavuzceliker.github.io)
-
 - 📝 I regularly write articles on: [yavuzceliker.com.tr](yavuzceliker.com.tr)
-
-- 💬 Ask me about: **ASP.NET MVC**
 
 - 📫 How to reach me: **contact@yavuzceliker.com.tr**
 
