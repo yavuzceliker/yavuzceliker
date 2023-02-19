@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Yavuz.</h1>
-<h3 align="center">I'm a computer engineering student from Turkey. 🇹🇷</h3>
+<h3 align="center">I'm a computer engineer from Turkey. 🇹🇷</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yavuzceliker&label=Profile%20views&color=0e75b6&style=flat" alt="yavuzceliker" /> </p>
 
 
 <p align="left"> <a href="https://twitter.com/yavuzcelikerctr" target="blank"><img src="https://img.shields.io/twitter/follow/yavuzcelikerctr?logo=twitter&style=for-the-badge" alt="yavuzcelikerctr" /></a> </p>
 
-- 🔭 I’m currently working on: **Appointment App**
+<!-- - 🔭 I’m currently working on: **Appointment App**
 
-- 🌱 I’m currently learning: **Flutter**, **ASP.NET CORE MVC**, **React**
+- 🌱 I’m currently learning: **Flutter**, **ASP.NET CORE MVC**, **React** -->
 
 - 📝 I regularly write articles on: [yavuzceliker.com.tr](yavuzceliker.com.tr)
 
@@ -20,10 +20,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yavuzceliker" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="yavuzcelikerctr" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/yavuzceliker" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="yavuzcelikerctr" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/yavuzceliker" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yavuzceliker" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14334070" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14334070" height="30" width="40" /></a>
-<a href="https://instagram.com/yavuzceliker.com.tr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yavuzceliker.com.tr" height="30" width="40" /></a>
+<a href="https://instagram.com/yavuzceliker_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yavuzceliker_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
